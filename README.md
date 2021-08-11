@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lindsnichols
 - 👀 I’m interested in improving my coding skills and exploring/ creating stuff that interests me.  
 - 🌱 I’m currently learning about nueral networks!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me (lindsayanichols22@gmail.com)
 
 <!---
